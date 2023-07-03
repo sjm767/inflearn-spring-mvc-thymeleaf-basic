@@ -1,5 +1,4 @@
-# inflearn-spring-mvc-lec-one-second
-
+# inflearn-spring-mvc-thymeleaf-basic
 - 강의명: 스프링 MVC 1편
 - 강사: 김영한님
 - 강의링크: https://inf.run/Fpxz
