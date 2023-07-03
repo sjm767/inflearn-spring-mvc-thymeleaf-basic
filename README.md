@@ -12,7 +12,7 @@
 - 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술: https://github.com/sjm767/inflearn-spring-mvc, https://github.com/sjm767/inflearn-spring-mvc-lec-one-second, https://github.com/sjm767/inflearn-spring-mvc-itemservice
 - 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술: https://github.com/sjm767/inflearn-spring-mvc-thymeleaf-basic, https://github.com/sjm767/inflearn-spring-mvc-itemservice
 - 스프링 DB 1편 - 데이터 접근 핵심 원리: https://github.com/sjm767/inflearn-spring-database-lec-one
-- 스프링 DB 2편 - 데이터 접근 활용 기술
+- 스프링 DB 2편 - 데이터 접근 활용 기술: https://github.com/sjm767/inflearn-spring-database-lec-two
 - 스프링 핵심 원리 - 고급편
 - 실전! 스프링 부트  (출시 예정)
 
